@@ -1,0 +1,6 @@
+package InternetBanking;
+
+
+public enum PaymentType {
+    paymentForServices, TransferPersonally, transferToAnotherPerson, userPaying
+}
